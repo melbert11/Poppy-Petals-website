@@ -14,3 +14,15 @@ Contribution: While currently in its initial stage, contributions are welcome in
 Further Development: Poppy Petals has the potential for further development in various aspects, including: Implementing interactive elements and functionalities. Designing for responsive layouts across mobile devices. Integrating social media features and sharing options. Incorporating e-commerce capabilities for online sales.
 
 Explore the code and provide feedback to contribute to the evolution of Poppy Petals!
+
+Members:
+
+Melbert Bonina
+
+Francis Balingbing
+
+Maria Francia Abdula
+
+Hanna Jane Belmes
+
+Angelica Bilaos
