@@ -18,7 +18,11 @@ Explore the code and provide feedback to contribute to the evolution of Poppy Pe
 Members:
 
 Melbert Bonina
+
 Francis Balingbing
+
 Maria Francia Abdula
+
 Hanna Jane Belmes
+
 Angelica Bilaos
