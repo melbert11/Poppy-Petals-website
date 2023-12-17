@@ -725,18 +725,18 @@ label {
 
 /* For Laptop*/
 
-@media only screen and (max-width: 1400px)  { 
-    
-    .home {
-        height: 135vh;
-    }
+@media only screen and (max-width: 1550px)  { 
 
+    .home {
+        height: 90.5rem;
+    }
+    
     .tagline h3 {
-        font-size: 110px;
-        line-height: 95px;
+        font-size: 140px;
+        line-height: 120px;
 
         position: absolute;
-        top: 23%;
+        top: 26%;
     }
 
     .icons {
@@ -765,8 +765,11 @@ label {
 
     .menu ul {
         font-size: 90%;
-        width: 100%;
-        margin-left: -40px;
+        width: 80%; 
+        margin-left: 90px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
     }
     
     
@@ -775,7 +778,7 @@ label {
     }
 
     .product-page{
-        height: 110vh;
+        height: 140vh;
     }
 
     .product h1 {
@@ -935,10 +938,8 @@ label {
         padding-left: 100px;
     
         position: relative;
-        top: 300px;
     
         display: flex;
-        height: 30vh;
         align-items: center;
         gap: 3em;
     }
@@ -1035,16 +1036,11 @@ label {
     }
     
     /** About Page **/
-    
-    .about {
-        height: 1320px;
-    }
-    
     .about h2 {
-        width: 800px;
+        width: 75%;
         text-align: center;
         position: relative;
-        right: 95px;
+        right: 110px;
     }
     
     .about h1 {
@@ -1061,7 +1057,7 @@ label {
     
     .about section {
         padding: 5%;
-        padding-top: 3%;
+        padding-top: 2%;
         padding-bottom: 2%;
     }
     
@@ -1096,12 +1092,13 @@ label {
         font-size: 50px;
         font-weight: 800;
     }
-    
-    /* Team Page */
-    .members {
-        height: 2075px;
+
+    .about .mission-vision {
+        position: absolute;
+        top: 120%;
     }
-    
+
+    /* Team Page */
     .members span {
         color: rgba(255, 78, 111, 0.83);
     }
@@ -1127,7 +1124,7 @@ label {
     
     .member1 .melbert {
         position: absolute;
-        bottom: 135px;
+        top: 580px;
         left: 420px;
         right: 5%;
     }
@@ -1182,7 +1179,7 @@ label {
         aspect-ratio: 1/1;
         position: relative;
         top: 80px;
-        right: -68%;
+        left: 74%;
         background-color: #fff;
         box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
     }
@@ -1197,7 +1194,7 @@ label {
         aspect-ratio: 1/1;
         position: relative;
         top: 80px;
-        right: -68%;
+        left: 74%;
         background-color: #fff;
         box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
     }
@@ -1208,7 +1205,7 @@ label {
         width: 36%;
         position: relative;
         top: 100px;
-        left: 380px;
+        left: 465px;
         text-align: center;
         position: relative;
     }
@@ -1243,11 +1240,10 @@ label {
     /* Sign Up Page */
     
     .signup {
-        height: 65vh;
         width: 36%;
         position: relative;
         top: 80px;
-        left: 380px;
+        left: 465px;
         text-align: center;
         position: relative;
     }
@@ -1268,6 +1264,15 @@ label {
         border-radius: 10px;
     }
 
+    .product-page .submenu {
+        margin-top: 3%;
+        margin-left: 15%;
+        margin-right: 15%;
+        margin-bottom: 2%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
     
 
 }
