@@ -725,7 +725,7 @@ label {
 
 /* For Laptop*/
 
-@media only screen and (max-width: 1250px)  { 
+@media only screen and (max-width: 1400px)  { 
     
     .home {
         height: 135vh;
